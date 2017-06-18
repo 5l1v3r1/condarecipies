@@ -1,2 +1,4 @@
 [submodule "feedstocks"]
 	url = https://github.com/shizzz477/condarecipies.git
+[submodule "astroconda-contrib"]
+	url = https://github.com/shizzz477/condarecipies.git
