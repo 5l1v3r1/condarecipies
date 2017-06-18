@@ -2,3 +2,5 @@
 	url = https://github.com/shizzz477/condarecipies.git
 [submodule "astroconda-contrib"]
 	url = https://github.com/shizzz477/condarecipies.git
+[submodule "conda-recipes"]
+	url = https://github.com/shizzz477/condarecipies.git
