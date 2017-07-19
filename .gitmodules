@@ -4,3 +4,7 @@
 	url = https://github.com/shizzz477/condarecipies.git
 [submodule "conda-recipes"]
 	url = https://github.com/shizzz477/condarecipies.git
+[submodule "anaconda-recipes"]
+	url = https://github.com/shizzz477/condarecipies.git
+[submodule "conda-recipes-extra"]
+	url = https://github.com/shizzz477/condarecipies.git
